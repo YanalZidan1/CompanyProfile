@@ -1,9 +1,6 @@
 
-![Screenshot 2025-03-19 060149](https://github.com/user-attachments/assets/ffc3a59d-cb79-4694-89b4-38ecbc8ec55d)
-![Screenshot 2025-03-19 194224](https://github.com/user-attachments/assets/70f2176e-2aaf-4b27-a32a-fc9333e8a1fb)
-![Screenshot 2025-03-19 194244](https://github.com/user-attachments/assets/b767d574-dc3c-433d-8578-0e67d1338c61)
-![Screenshot 2025-03-19 194255](https://github.com/user-attachments/assets/576dff4c-e2b6-4878-bfe1-1337c8d0c99f)
-![Screenshot 2025-03-19 194310](https://github.com/user-attachments/assets/3b60c47b-372d-400e-8d4e-be60467180d7)
+![تخيل موقعك](https://github.com/user-attachments/assets/87bd5707-fa13-4fcd-a480-06757f3c06f1)
+
 
 The website is the official platform for a company specializing in programming and software development. It was built using HTML, CSS, Bootstrap, JavaScript, and React to reflect the company’s professional identity and showcase its services effectively.
 
