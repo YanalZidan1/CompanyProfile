@@ -1,0 +1,42 @@
+{
+    "WhyChooseUs": [
+      {
+        "id": 1,
+        "title": "Experience",
+        "description": "We have years of experience providing the best services.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-1.svg"
+      },
+      {
+        "id": 2,
+        "title": "Products",
+        "description": "We offer a wide range of high-quality products.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-2.svg"
+      },
+      {
+        "id": 3,
+        "title": "Approach",
+        "description": "We believe in a customer-centered approach.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-3.svg"
+      },
+      {
+        "id": 4,
+        "title": "Pricing",
+        "description": "Competitive pricing with high value.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-4.svg"
+      },
+      {
+        "id": 5,
+        "title": "Delivery",
+        "description": "Fast and reliable delivery.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-5.svg"
+      },
+      {
+        "id": 6,
+        "title": "Support",
+        "description": "Excellent customer support available 24/7.",
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/icon-6.svg"
+      }
+    ],
+    "centerImage": "https://zrtechsolutions.com/demo/html/technoit/assets/images/features.jpg"
+  }
+  

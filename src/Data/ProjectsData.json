@@ -1,0 +1,101 @@
+{
+    "categories": [
+        {
+            "name": "Health Sector",
+            "services": [
+                {
+                    "id": 1,
+                    "serviceName": "TAP",
+                    "details": "A Third-party administrator (TPA) provides administrative services for self-funded health plans.",
+                    "image": "TAP.png",
+                    "description": "TAP (Third-party administrator) plays a crucial role in the healthcare industry by offering administrative support to self-funded health plans. It manages multiple functions, including claims processing, member services, provider networks, and customer support. TPA helps self-funded employers manage healthcare costs effectively while ensuring their employees have access to quality healthcare. The services offered include benefits administration, claims management, and reporting services. By partnering with TPA, employers can offer customized health plans to their employees while maintaining cost efficiency and administrative simplicity. Moreover, TAP ensures that all regulatory requirements are met, streamlining the entire healthcare process, and saving employers valuable time and resources. This makes TAP an ideal solution for businesses looking for an efficient, scalable, and cost-effective approach to managing employee health plans."
+                },
+                {
+                    "id": 2,
+                    "serviceName": "E-CLINIC",
+                    "details": "An unparalleled Clinic Management System.",
+                    "image": "ECLINIC.png",
+                    "description": "E-Clinic is an advanced, interactive Clinic Management System designed to revolutionize healthcare operations. It offers a comprehensive solution for managing patient appointments, medical records, and administrative tasks. The system incorporates specialized modules, including patient history tracking, billing, and staff management, to ensure that clinic operations run smoothly and efficiently. E-Clinic's interactive human body visualization aids healthcare providers in diagnosis, offering a more intuitive approach to patient care. In addition to its core functionalities, E-Clinic integrates with various diagnostic tools and devices, enabling healthcare professionals to offer timely and accurate treatment. The system is designed to be user-friendly, accessible from various devices, and secure, ensuring that sensitive patient data is protected. It reduces the administrative burden on clinic staff and enhances the overall patient experience. Whether for small private practices or large healthcare institutions, E-Clinic is an invaluable tool that optimizes workflows, improves patient care, and ensures regulatory compliance."
+                },
+                {
+                    "id": 3,
+                    "serviceName": "E-PHYSIO",
+                    "details": "E-Physio is a web-based application for physiotherapy centers.",
+                    "image": "E PHYSIO.png",
+                    "description": "E-Physio is an innovative, web-based platform designed specifically for physiotherapy centers. It allows practitioners to manage patient appointments, track progress, and store treatment records all in one place. The platform also includes a comprehensive patient management system, allowing for the scheduling of appointments, tracking of patient treatments, and automatic reminders. E-Physio enhances patient care by enabling physiotherapists to provide personalized treatment plans, monitor progress over time, and adjust care as necessary. Patients benefit from a streamlined process that reduces wait times and improves communication with their care providers. The application is designed to be user-friendly, making it easy for physiotherapy centers to integrate into their daily operations. E-Physio also allows for secure storage of patient data, ensuring compliance with healthcare regulations. This platform has been specifically developed to optimize the operational efficiency of physiotherapy clinics and improve patient satisfaction by providing seamless and effective treatment management."
+                },
+                {
+                    "id": 4,
+                    "serviceName": "E-LAP",
+                    "details": "E-LAB is an integrated website and mobile application for medical laboratories.",
+                    "image": "E LAB.png",
+                    "description": "E-LAP is a state-of-the-art solution designed to streamline medical laboratory operations. This integrated system works seamlessly across both website and mobile application platforms, providing medical laboratories with a comprehensive tool to manage tests, results, and inventory. The platform ensures accuracy in processing medical data while offering an intuitive user interface for both laboratory technicians and patients. E-LAP helps laboratories manage and track tests efficiently, reducing errors, ensuring timely results, and improving overall patient care. It also integrates real-time inventory management to ensure labs have the necessary supplies when needed. The system allows laboratories to generate and manage patient records, order tests, and report results in a secure environment, ensuring confidentiality and compliance with health regulations. Furthermore, E-LAP enhances communication between healthcare providers, improving collaboration and ensuring accurate diagnostics. By providing real-time updates and remote access, E-LAP allows laboratory professionals to focus more on their core tasks and less on administrative burdens, creating a more efficient and reliable testing environment."
+                }
+            ]
+        },
+        {
+            "name": "Educational Sector",
+            "services": [
+                {
+                    "id": 6,
+                    "serviceName": "E-School",
+                    "details": "E-School & LMS software for managing administrative works of a school.",
+                    "image": "E SCHOOL.png",
+                    "description": "E-School is a comprehensive software solution designed to help educational institutions manage all aspects of their operations, from administration to learning management. The system is divided into two main components: the E-School platform for administrative tasks and the Learning Management System (LMS) for educational activities. E-School simplifies the administrative work of schools by automating tasks such as student enrollment, staff management, scheduling, and fee collection. It also offers modules for accounting, HR management, library management, and transportation. On the educational side, the LMS component provides teachers with the tools to create, manage, and track student learning. It supports features like online exams, assignments, grade management, and communication between teachers and students. E-School & LMS streamlines the learning and administrative processes, improving overall efficiency and making it easier for both educators and students to interact with the system. This integrated approach ensures that the school operates smoothly while also providing an enhanced learning experience."
+                },
+                {
+                    "id": 7,
+                    "serviceName": "ACTIVOD",
+                    "details": "ACTIVEVOD is an interactive learning technology.",
+                    "image": "ACTIVOD.png",
+                    "description": "ACTIVEVOD is an innovative learning technology designed to create an interactive and engaging learning experience through on-demand video content. It integrates various educational tools, such as quizzes, discussions, and AI-powered feedback, directly into the videos being streamed. This platform empowers educators to enhance their lessons by adding interactive elements to videos, transforming passive viewing into active learning. The system allows teachers to create content with embedded interactive elements, which helps students retain more information and engage deeply with the material. ActiveVOD also enables real-time interaction between students and instructors, promoting a more dynamic and participatory learning environment. The technology supports a wide range of subjects and is adaptable to various educational levels, making it a versatile tool for schools, universities, and other educational institutions. With ACTIVEVOD, learners can enjoy an immersive experience that enhances their understanding and mastery of complex topics, while instructors can easily monitor student progress and provide timely feedback."
+                },
+                {
+                    "id": 8,
+                    "serviceName": "EDUVOD",
+                    "details": "EduVOD is a platform for streaming content with live interactive lectures.",
+                    "image": "EDUVOD.png",
+                    "description": "EduVOD is a dynamic online platform that combines live streaming with interactive learning tools. It allows instructors to conduct live lectures and offer engaging, real-time learning experiences. EduVOD supports a variety of media, including videos, documents, and interactive content, to enrich the educational experience. The platform provides a suite of tools for teachers to create engaging content, such as live polls, quizzes, and chat features, allowing for real-time feedback and discussion. It also includes features that allow students to ask questions, participate in discussions, and collaborate with their peers, making the learning process more interactive and engaging. Beyond live lectures, EduVOD supports on-demand video streaming for recorded lectures, tutorials, and other educational materials, ensuring that students have access to content whenever they need it. Whether for schools, universities, or corporate training, EduVOD is an excellent platform for delivering high-quality education in a flexible and accessible way."
+                }
+            ]
+        },
+        {
+            "name": "Business Sector",
+            "services": [
+                {
+                    "id": 9,
+                    "serviceName": "E-ERP",
+                    "details": "E-ERP web-based system to control all aspects of organizations.",
+                    "image": "EPR.png",
+                    "description": ""
+                },
+                {
+                    "id": 10,
+                    "serviceName": "Marketing Solutions",
+                    "details": "Our all-in-one video platform for managing and sharing videos.",
+                    "image": "FILEGER.png",
+                    "description": "Our all-in-one video platform turns your ideas into action. Make, manage, and share videos and virtual events that move your audience. One video platform. All your video needs."
+                }
+            ]
+        },
+        {
+            "name": "IT Sector",
+            "services": [
+                {
+                    "id": 11,
+                    "serviceName": "IT Service 1",
+                    "details": "Details about IT service 1.",
+                    "image": "IT_SERVICE_1.png",
+                    "description": ""
+                },
+                {
+                    "id": 12,
+                    "serviceName": "IT Service 2",
+                    "details": "Details about IT service 2.",
+                    "image": "IT_SERVICE_2.png",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

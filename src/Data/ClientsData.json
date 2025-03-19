@@ -1,0 +1,60 @@
+
+{
+    "clients": [
+        {
+            "id": 1,
+            "name": "dv8",
+            "image": "dv8.png"
+        },
+        {
+            "id": 2,
+            "name": "healthpro",
+            "image": "healthpro.jpg"
+        },
+        {
+            "id": 3,
+            "name": "joAcademy",
+            "image": "joAcademy.svg"
+        },
+        {
+            "id": 4,
+            "name": "kulluna-maryam",
+            "image": "kulluna-maryam.jpg"
+        },
+        {
+            "id": 5,
+            "name": "MOL",
+            "image": "MOL.png"
+        },
+        {
+            "id": 6,
+            "name": "Physiomedic",
+            "image": "Physiomedic.png"
+        },
+        {
+            "id": 7,
+            "name": "physioone",
+            "image": "physioone.png"
+        },
+        {
+            "id": 8,
+            "name": "quiqclaim-logo",
+            "image": "quiqclaim-logo.png"
+        },
+        {
+            "id": 9,
+            "name": "schoolscom-logo",
+            "image": "schoolscom-logo.jpeg"
+        },
+        {
+            "id": 10,
+            "name": "vitas-logo",
+            "image": "vitas-logo.png"
+        },
+        {
+            "id": 11,
+            "name": "resalah-lab",
+            "image": "resalah-lab.jpg"
+        }
+    ]
+}

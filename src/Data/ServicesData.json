@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-design.svg",
+      "title":"Application Design",
+      "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": 2,
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-hosting.svg",
+        "title":"Web Hosting",
+        "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 3,
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-social.svg",
+        "title":"Social Media",
+        "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 4,
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-seo.svg",
+        "title":"SEO Optimization",
+        "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 5,
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-cloud.svg",
+        "title":"Cloud Server",
+        "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 6,
+        "icon": "https://zrtechsolutions.com/demo/html/technoit/assets/images/icons/service-secure.svg",
+        "title":"Data Secuity",
+        "description": "Ronsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+      
+  ]
+  

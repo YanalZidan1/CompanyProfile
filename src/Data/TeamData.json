@@ -1,0 +1,63 @@
+{
+    "teamMembers": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "position": "CEO",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "position": "CTO",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Emily Johnson",
+            "position": "Project Manager",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Michael Brown",
+            "position": "Developer",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Sarah Davis",
+            "position": "Designer",
+            "image": "team-2.jpg"
+        }, {
+            "id": 6,
+            "name": "John Doe",
+            "position": "CEO",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Jane Smith",
+            "position": "CTO",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Emily Johnson",
+            "position": "Project Manager",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Michael Brown",
+            "position": "Developer",
+            "image": "team-2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Sarah Davis",
+            "position": "Designer",
+            "image": "team-2.jpg"
+        }
+    ]
+}
